@@ -1,4 +1,4 @@
-# this is my first python simple game i made
+# tutorial for python with some games
 for training
 
 ## Project Notes
